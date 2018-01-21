@@ -36,6 +36,8 @@
 		<Unit filename="Board.h" />
 		<Unit filename="Cell.cpp" />
 		<Unit filename="Cell.h" />
+		<Unit filename="controller.cpp" />
+		<Unit filename="controller.h" />
 		<Unit filename="main.cpp" />
 		<Extensions>
 			<envvars />
